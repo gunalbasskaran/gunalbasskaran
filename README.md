@@ -1,4 +1,4 @@
-<h1 align="center">GUNAL BASSKARAN</h1>
+<h1 align="center">GUNAL </h1>
 <h3 align="center">AI & ML Student • Full-Stack Developer • Product Builder</h3>
 
 <p align="center">
